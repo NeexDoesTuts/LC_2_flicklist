@@ -1,3 +1,1 @@
-# flicklist-flask
-
-A webapp for tracking movie viewing, written in Python3 and ported to Flask.
+This version adds pretend functionality to add and remove movies. The routs work. The data is hard-coded.
