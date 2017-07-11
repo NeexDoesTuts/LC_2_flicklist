@@ -1,3 +1,1 @@
-# flicklist-flask
-
-A webapp for tracking movie viewing, written in Python3 and ported to Flask.
+This version displays random today's and tomorrow's movie from a given list of movies.
